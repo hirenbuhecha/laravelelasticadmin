@@ -18,7 +18,7 @@ The .env of DEFAULT DEVELOPMENT ENVIRONMENT:
        APP_LOG_LEVEL=debug
        APP_URL=http://localhost
        
-       APP_NAME=LARAVELELSADMIN
+       APP_NAME=ELSADMIN
       
       
        BROADCAST_DRIVER=log
